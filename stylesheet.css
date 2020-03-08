@@ -59,15 +59,19 @@ a {
 }
 
 .parakeet {
-  background-color: #cb2a7b;
+  background-color: #CB2A7B;
 }
 
 .karrently {
-  background-color: #88C1C9;
+  background: -moz-linear-gradient(to bottom,#6BD4D7,#8AC0C8 50%,#35D8B8); 
+  background: -webkit-linear-gradient(to bottom,#6BD4D7,#8AC0C8 50%,#35D8B8); 
+  background: linear-gradient(to bottom,#6BD4D7,#8AC0C8 50%,#35D8B8); 
 }
 
 .stryeam {
-  background-color: #0B97A6;
+  background: -moz-linear-gradient(top, #004D7F, #16E7CF);
+  background: -webkit-linear-gradient(top, #004D7F, #16E7CF);
+  background: linear-gradient(to bottom, #004D7F, #16E7CF);
 }
 
 .prostackk {
