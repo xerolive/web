@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
+  color: rgba(48,23,129,1)
 }
 
 a {
@@ -174,7 +175,6 @@ header {
   display: inline-block;
   margin-top: 15px;
   font-size: 13px;
-  color: rgba(48,23,129,1)
 }
 
 .heading h3 {
