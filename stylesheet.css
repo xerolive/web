@@ -80,12 +80,6 @@ a {
   background-color: #F84833;
 }
 
-.prostackk:active {
-  position: relative;
-  top: 7px;
-  box-shadow: none;
-}
-
 .btn {
   padding: 8px 24px;
   color: white;
