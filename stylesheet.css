@@ -87,14 +87,17 @@ a {
   opacity: 0.8;
   border-radius: 4px;
   text-align: center;
-  position: relative;
-  top: 7px;
-  box-shadow: none;
 }
 
 .btn:hover {
   opacity: 1;
 }
+
+.btn:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}  
 
 .fa {
   margin-right: 5px;
