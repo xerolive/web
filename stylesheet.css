@@ -187,6 +187,7 @@ footer p {
 }
 
 footer {
+  background-color: rgba(48,23,129,0.7);
   padding-top: 30px;
   padding-bottom: 20px;
 }
