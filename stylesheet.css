@@ -65,9 +65,7 @@ a {
 }
 
 .karrently {
-  background: -moz-linear-gradient(to bottom,#6BD4D7,#8AC0C8 50%,#35D8B8); 
-  background: -webkit-linear-gradient(to bottom,#6BD4D7,#8AC0C8 50%,#35D8B8); 
-  background: linear-gradient(to bottom,#6BD4D7,#8AC0C8 50%,#35D8B8); 
+  background-color: #16E7CF; 
 }
 
 .stryeam {
