@@ -69,9 +69,7 @@ a {
 }
 
 .stryeam {
-  background: -moz-linear-gradient(top, #004D7F, #16E7CF);
-  background: -webkit-linear-gradient(top, #004D7F, #16E7CF);
-  background: linear-gradient(to bottom, #004D7F, #16E7CF);
+  background-color: #0B97A6; 
 }
 
 .prostackk {
